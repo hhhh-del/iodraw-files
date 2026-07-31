@@ -13,8 +13,8 @@
         <mxCell id="Mt4ll3nhBskbZS2AtCGI-4" value="多边形拟合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mt4ll3nhBskbZS2AtCGI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="Mt4ll3nhBskbZS2AtCGI-5" value="旋转拼接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
