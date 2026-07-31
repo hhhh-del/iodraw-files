@@ -28,8 +28,14 @@
         <mxCell id="Mt4ll3nhBskbZS2AtCGI-5" value="旋转拼接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Mt4ll3nhBskbZS2AtCGI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mt4ll3nhBskbZS2AtCGI-9" target="Mt4ll3nhBskbZS2AtCGI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mt4ll3nhBskbZS2AtCGI-9" value="计算坐标" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt4ll3nhBskbZS2AtCGI-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
